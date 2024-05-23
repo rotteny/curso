@@ -1,0 +1,19 @@
+{
+    "name": "rotteny/curso",
+    "description": "Teste do cursp",
+    "license": "MTI",
+    "autoload": {
+        "psr-4": {
+            "Rotteny\\Curso\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "George Rotteny",
+            "email": "george.lopes@safetydocs.com.br"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
